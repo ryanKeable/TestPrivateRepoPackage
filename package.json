@@ -23,8 +23,5 @@
     "url": "https://github.com/ryanKeable/TestPrivateRepoPackage.git",
     "directory": "UPMPackage"
   },
-  "dependencies": {
-    "com.rdk.testRepo": "https://github.com/ryanKeable/TestPrivateRepoPackage.git"
-  },
   "category": "Utility"
 }
