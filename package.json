@@ -1,0 +1,36 @@
+{
+  "name": "com.rdk.testRepo",
+  "displayName": "RDK Test Repo",
+  "version": "0.0.2",
+  "unity": "2022.1",
+  "description": "This package contains NOTHNG",
+  "keywords": [
+    "Unity",
+    "Shader",
+    "HLSL",
+    "Shadergraph",
+    "Right-To-Left"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "ryanKeable",
+    "email": "ryan.d.keable@gmail.com",
+    "url": "https://github.com/ryanKeable"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hk1ll3r/RTLTMPro.git",
+    "directory": "UPMPackage"
+  },
+  "dependencies": {
+    "com.unity.shadergraph": "12.1.11"
+  },
+  "category": "Utility",
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
