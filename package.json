@@ -24,7 +24,7 @@
     "directory": "UPMPackage"
   },
   "dependencies": {
-    "com.mycompany.mypackage1": "https://github.com/ryanKeable/TestPrivateRepoPackage.git",
+    "com.rdk.testRepo": "https://github.com/ryanKeable/TestPrivateRepoPackage.git"
   },
   "category": "Utility"
 }
