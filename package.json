@@ -12,9 +12,6 @@
     "Right-To-Left"
   ],
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": {
     "name": "ryanKeable",
     "email": "ryan.d.keable@gmail.com",
@@ -27,10 +24,7 @@
     "directory": "UPMPackage"
   },
   "dependencies": {
-    "com.unity.shadergraph": "12.1.11"
+    "com.mycompany.mypackage1": "https://github.com/ryanKeable/TestPrivateRepoPackage.git",
   },
-  "category": "Utility",
-  "publishConfig": {
-    "registry": "https://package.openupm.com"
-  }
+  "category": "Utility"
 }
