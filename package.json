@@ -3,7 +3,7 @@
   "displayName": "RDK Test Repo",
   "version": "0.0.2",
   "unity": "2022.1",
-  "description": "This package contains NOTHNG",
+  "description": "This package contains NOTHING",
   "keywords": [
     "Unity",
     "Shader",
@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hk1ll3r/RTLTMPro.git",
+    "url": "https://github.com/ryanKeable/TestPrivateRepoPackage.git",
     "directory": "UPMPackage"
   },
   "dependencies": {
