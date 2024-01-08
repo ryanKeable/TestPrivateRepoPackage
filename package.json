@@ -18,10 +18,5 @@
     "url": "https://github.com/ryanKeable"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ryanKeable/TestPrivateRepoPackage.git",
-    "directory": "UPMPackage"
-  },
   "category": "Utility"
 }
